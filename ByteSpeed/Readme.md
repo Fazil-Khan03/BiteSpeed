@@ -2,7 +2,7 @@ This Readme provides instructions on how to set up a local development environme
 
 Prerequisites
 Before proceeding with the setup, ensure that you have the following installed on your system:
-
+changes to this file
 Python 3.x (https://www.python.org/downloads/)
 pip (https://pip.pypa.io/en/stable/installing/)
 Django (https://www.djangoproject.com/download/)
